@@ -1,0 +1,7 @@
+{
+  "name": "softr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
